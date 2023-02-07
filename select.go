@@ -24,3 +24,5 @@ func main() {
 	time.Sleep(3 * time.Second)
 	c <- 5
 }
+
+// dsadassda
